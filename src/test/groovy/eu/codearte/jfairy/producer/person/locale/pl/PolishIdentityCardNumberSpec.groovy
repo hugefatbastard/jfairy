@@ -9,9 +9,9 @@ import eu.codearte.jfairy.producer.DateProducer
 import org.joda.time.DateTime
 import spock.lang.Specification
 
-import static PolishIdentityCardNumber.ISSUING_BEGIN
-import static PolishIdentityCardNumber.LETTER_WEIGHT
-import static PolishIdentityCardNumber.MAX_DIGITS_PART_VALUE
+import static eu.codearte.jfairy.producer.person.locale.pl.PolishIdentityCardNumber.ISSUING_BEGIN
+import static eu.codearte.jfairy.producer.person.locale.pl.PolishIdentityCardNumber.LETTER_WEIGHT
+import static eu.codearte.jfairy.producer.person.locale.pl.PolishIdentityCardNumber.MAX_DIGITS_PART_VALUE
 
 /**
  * @author mariuszs
